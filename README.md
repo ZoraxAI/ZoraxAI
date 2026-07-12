@@ -2,8 +2,7 @@
 
 ## AI Solutions Engineer | Computer Engineer | Generative AI Specialist
 
-Computer Engineering graduate with experience working on AI systems at Meta, Scale AI, and Appen.
-
+Computer Engineer with experience evaluating, improving, and scaling AI systems across Meta, Scale AI, and Appen. Passionate about building AI-powered solutions that bridge technology, business objectives, and user needs.
 I enjoy building AI-powered solutions that bridge technology and business outcomes through Generative AI, Large Language Models (LLMs), APIs, and workflow automation.
 
 ### Areas of Interest
