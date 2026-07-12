@@ -34,7 +34,7 @@ I enjoy building AI-powered solutions that bridge technology and business outcom
 - Technical Consulting
 - Automation
 
-## Currently Learning
+## Current Technical Focus
 
 - FastAPI
 - Retrieval-Augmented Generation (RAG)
