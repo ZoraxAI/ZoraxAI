@@ -5,6 +5,14 @@
 Computer Engineer with experience evaluating, improving, and scaling AI systems across Meta, Scale AI, and Appen. Passionate about building AI-powered solutions that bridge technology, business objectives, and user needs.
 I enjoy building AI-powered solutions that bridge technology and business outcomes through Generative AI, Large Language Models (LLMs), APIs, and workflow automation.
 
+## Experience Highlights
+
+- Meta — GenAI Knowledge Expert
+- Scale AI — Team Lead & AI Model Quality Analyst
+- Appen — Senior LLM Specialist
+- Led distributed teams of 70+ contributors
+- Evaluated and improved Large Language Model performance
+
 ## Professional Focus
 
 - AI Solutions Engineering
@@ -60,6 +68,14 @@ Designing and building an AI-powered document intelligence platform that enables
 - FastAPI
 - Generative AI
 - LLM Evaluation
+
+## 2026 Goals
+
+- Build AI Knowledge Assistant into a production-ready application
+- Deepen expertise in AI Solutions Engineering
+- Master APIs, RAG systems, and solution architecture
+- Contribute to open-source AI projects
+- Help organizations successfully deploy AI-powered solutions
 
 ### Let's Connect
 
